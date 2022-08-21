@@ -4,6 +4,7 @@ on:
     branches:
       - master
       - "*-stable"
+      - spell-*
   # Switch from `pull_request_target` event to reduce distraction from comments
   # regarding errors reported in unmodified files.
   pull_request:
