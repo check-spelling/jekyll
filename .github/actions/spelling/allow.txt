@@ -3,3 +3,7 @@ Statictastic
 Linting
 hakiri
 built-ins
+github
+https
+ssh
+ubuntu
